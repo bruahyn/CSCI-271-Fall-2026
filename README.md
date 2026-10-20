@@ -4,7 +4,7 @@ Repository for CSCI 271, created by Bryan Guevara. This is my practice repo for 
 
 ## 
 
-\## Assignments
+### Assignments
 
 
 
@@ -20,5 +20,5 @@ Repository for CSCI 271, created by Bryan Guevara. This is my practice repo for 
 
 
 
-\## AI Assistance
+### AI Assistance
 
