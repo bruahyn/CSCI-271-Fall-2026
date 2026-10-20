@@ -1,1 +1,6 @@
-*.exe 
+Debug/
+Release/
+*.o
+*.obj
+*.exe
+.vs/ 
