@@ -1,0 +1,3 @@
+Assignment 5
+
+This assignment contains three C++ programs that work with arrays. The first program uses functions to print a fixed array forward and in reverse, then asks the user for a limit and counts how many values are above it. The second program reads five scores from the user, then calculates and prints the sum, average, highest, and lowest scores. The third program searches an array for a number the user enters, and reports the first index where it was found and how many times it appears, or that it was not found.

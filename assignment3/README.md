@@ -1,0 +1,3 @@
+Assignment 3
+
+This assignment contains two C++ programs that use `if`/`else` decisions, plus a flowchart. The first program asks for the user's age and membership status (1 for yes, 0 for no) and prints whether they qualify for a discount, which they do if they are 18 or older and a member, or if they are 60 or older. The second program asks for a temperature in Fahrenheit and uses an `if`/`else if` chain to print whether it is Freezing, Cold, Mild, or Hot.

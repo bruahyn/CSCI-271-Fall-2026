@@ -1,0 +1,3 @@
+Assignment 7
+
+This assignment contains two C++ programs. The first program uses binary search to look for a number in a sorted array. It asks the user for a target, repeatedly checks the middle element and narrows the search range, then prints the index where the number was found or that it was not found. The second program is a grade tracker that uses a `vector`. It asks the user how many grades to enter, stores them, and then prints the grades, the count, the average, and the highest grade, or a message if no grades were entered.
